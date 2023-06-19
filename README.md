@@ -3,6 +3,8 @@
 <br>
 
 ### Olá! Meu nome é João Vitor, mas pode me chamar de Silvestre ✌️
+### Hello! My name is João Vitor, but you can call me Silvestre ✌️
+### ¡Hola! Mi nombre es João Vitor, pero puedes llamarme Silvestre ✌️
 <br>
 <hr>
 <br>
