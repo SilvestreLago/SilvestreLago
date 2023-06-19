@@ -18,4 +18,4 @@
 ![LING](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvestrelago&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvestrelago&hide_progress=true&theme=synthwave)
