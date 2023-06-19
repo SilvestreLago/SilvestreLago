@@ -1,16 +1,21 @@
-### Hi there 👋
+<br>
+<hr>
+<br>
 
-<!--
-**SilvestreLago/SilvestreLago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Meu nome é João Vitor, mas pode me chamar de Silvestre ✌️
+<br>
+<hr>
+<br>
 
-Here are some ideas to get you started:
+![Silvestrelago](https://github-readme-stats.vercel.app/api?username=SilvestreLago&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+<br>
+
+![OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NAV](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![LING](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvestrelago&hide_progress=true)
