@@ -28,6 +28,6 @@
 ![NAV](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![LING](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LING](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=PHP&logoColor=white)
-![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![LING](https://img.shields.io/badge/MYSQL-3776AB?style=for-the-badge&logo=MYSQL&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvestrelago&hide_progress=true&theme=synthwave)
