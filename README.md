@@ -8,9 +8,6 @@
 <a href="https://silvestrelago.github.io/Portfolio/index.html" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/8208/8208491.png" alt="portfolio" heigth="30" width="40"></a>
 </p>
 
-### Portfólio: https://silvestrelago.github.io/Portfolio/index.html
-
-
 <hr>
 <br>
 
