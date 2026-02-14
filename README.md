@@ -35,7 +35,7 @@
 
 <hr>
 
-## 📊 Estatísticas e Tecnologias
+## 📊 Estatísticas
 <div align="center">
   <table border="0">
     <tr>
